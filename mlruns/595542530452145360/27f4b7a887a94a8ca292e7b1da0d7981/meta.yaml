@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/595542530452145360/27f4b7a887a94a8ca292e7b1da0d7981/artifacts
+end_time: 1754748398678
+entry_point_name: ''
+experiment_id: '595542530452145360'
+lifecycle_stage: active
+run_id: 27f4b7a887a94a8ca292e7b1da0d7981
+run_name: puzzled-ant-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748396172
+status: 3
+tags: []
+user_id: dhyanendra

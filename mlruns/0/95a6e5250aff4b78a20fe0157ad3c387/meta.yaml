@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/95a6e5250aff4b78a20fe0157ad3c387/artifacts
+end_time: 1754741771061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95a6e5250aff4b78a20fe0157ad3c387
+run_name: bald-fawn-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754741770970
+status: 3
+tags: []
+user_id: dhyanendra

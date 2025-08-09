@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/595542530452145360/63e243343ecd402ab832b13036a2b191/artifacts
+end_time: 1754748234863
+entry_point_name: ''
+experiment_id: '595542530452145360'
+lifecycle_stage: active
+run_id: 63e243343ecd402ab832b13036a2b191
+run_name: bold-grouse-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754748234668
+status: 3
+tags: []
+user_id: dhyanendra

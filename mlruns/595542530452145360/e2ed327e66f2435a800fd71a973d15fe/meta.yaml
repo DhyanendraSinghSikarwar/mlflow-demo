@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/595542530452145360/e2ed327e66f2435a800fd71a973d15fe/artifacts
+end_time: 1754743612013
+entry_point_name: ''
+experiment_id: '595542530452145360'
+lifecycle_stage: active
+run_id: e2ed327e66f2435a800fd71a973d15fe
+run_name: DecisionTree-Iris-experiment
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754743611998
+status: 3
+tags: []
+user_id: dhyanendra

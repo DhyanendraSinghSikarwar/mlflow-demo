@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/595542530452145360/d20190002b1c4e67951493a70f46319e/artifacts
+end_time: 1754747454994
+entry_point_name: ''
+experiment_id: '595542530452145360'
+lifecycle_stage: active
+run_id: d20190002b1c4e67951493a70f46319e
+run_name: flawless-steed-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754747454830
+status: 4
+tags: []
+user_id: dhyanendra

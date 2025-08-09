@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/595542530452145360/ef2fe74e7d6040eab93fb7ddf96d25fc/artifacts
+end_time: 1754743439841
+entry_point_name: ''
+experiment_id: '595542530452145360'
+lifecycle_stage: active
+run_id: ef2fe74e7d6040eab93fb7ddf96d25fc
+run_name: intrigued-mouse-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754743439831
+status: 3
+tags: []
+user_id: dhyanendra

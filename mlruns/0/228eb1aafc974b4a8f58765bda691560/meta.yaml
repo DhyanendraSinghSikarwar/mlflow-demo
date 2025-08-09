@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/228eb1aafc974b4a8f58765bda691560/artifacts
+deleted_time: 1754741814330
+end_time: 1754741697757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 228eb1aafc974b4a8f58765bda691560
+run_name: funny-fowl-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754741696018
+status: 4
+tags: []
+user_id: dhyanendra
